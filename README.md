@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+    <img src="./assets/icon_circle.svg" width="150px">
+    <h1>B1NK*</h1>
+</div>
 
 <!--
 **b1nknet/b1nknet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
